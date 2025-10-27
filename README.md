@@ -62,7 +62,7 @@ This allows only your EC2 instance to connect to RDS.
 
 **Screenshot:**  
 
-[Security Groups](Assets/SG-EC2-RDS.png)
+![Security Groups](Assets/SG-EC2-RDS.png)
 
 ---
 
@@ -115,9 +115,9 @@ SELECT * FROM students;
 
 **Screenshot:**  
 
-[Terminal](Assets/EC2-Instance1-Terminal.png)
+![Terminal](Assets/EC2-Instance1-Terminal.png)
 
-[Terminal](Assets/EC2-Instance2-Terminal.png)
+![Terminal](Assets/EC2-Instance2-Terminal.png)
 
 ---
 
