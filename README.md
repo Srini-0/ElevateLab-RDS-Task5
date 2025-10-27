@@ -115,9 +115,9 @@ SELECT * FROM students;
 
 **Screenshot:**  
 
-[Security Groups](Assets/EC2-Instance1-Terminal.png)
+[Terminal](Assets/EC2-Instance1-Terminal.png)
 
-[Security Groups](Assets/EC2-Instance2-Terminal.png)
+[Terminal](Assets/EC2-Instance2-Terminal.png)
 
 ---
 
